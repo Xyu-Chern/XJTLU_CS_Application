@@ -19,8 +19,8 @@
 ----
 
 #### 选校
-- 你需要申请多少学校 ？ 答案是15打底上不封顶
-- 过几天填对于西浦的bar 不评价项目质量  可以私信询问
+- 申请15个打底上不封顶
+- 不评价项目质量 只是申请难度 涵盖扩招缩招  卡学校等
 - 不要只盯着cs 申
 
 - 大致罗列 后续收集完xhs上的填link 介绍
@@ -28,12 +28,12 @@
 - upenn cis / utaustion ece&cs /  ucb meng eecs / uiuc ms ece / 
 - ucla mscs / umich cse (26fall扩招了建议填） / haverd cse&ds/ cmu msin / nwu mlds
 - 上面的无录取
-- cmu mrsd /cmu aii / haverd hds/ upenn msr / uiuc mcs 
-- nyu ds / ucsd cs75 / cmu mites  / upenn cggt
-- gt cse(isye) home uint不要填ece / gt ece / columbia mscs/ mwu mscs / cmu ece
+- cmu mrsd / cmu aii / harvard hds/ upenn msr 
+- nyu ds / ucsd cs75 / cornell tech meng cs / uiuc mcs / cmu mites  / upenn cggt
+- gt cse(isye) home uint不要填ece / gt ece / columbia mscs/ mwu mscs / cmu ece(26扩招了）/ cornell tech cm&ece
 - 下面为普遍录取项目
-- brown scm cs / jhu msecs / ucsd ece$ce 不要填cs76/cmu sesv&aie&sess&ece(spring)$aim / uw ee pmp
-- rice mcs /cmu msim-bida/ duuke meng ece/ nyu mscs tandon& corant / usc cs28 / 
+- Umich ms r&ece / brown scm cs / jhu msecs / ucsd ece$ce 不要填cs76/cmu sesv&aie&sess&ece(spring)$aim / uw ee pmp
+- Upenn ee/ Columbia ee/ rice mcs /cmu msim-bida/ duke meng ece/ nyu mscs tandon& corant / usc cs28 / 
 - neu .....
 
 #### 信息渠道
@@ -45,13 +45,15 @@
 #### SURF
 - 评价为没啥用 每年excel基本都那样  对于ai感兴趣的建议去找实习
 
-#### 暑期陶瓷
+#### 暑研
 - 你如果没啥方向建议不找 直接去找实习
 - 强烈推荐圣母大学官方暑研 不卡学校
 - 远程 还是 自费线下
 - 暑研到底为了什么  ？ 建议大多数学生干点洗洗数据跑点实验 混个推荐信反而是最合适的路
 - 如何陶瓷 模板是什么？
 - 如何联系老师？
+- 注意有些老师要填表
+- cs ranking 30下 我发过邮件回复的：
   
 #### 实习
 - 强度 外企 > 硅谷初创 > 国内互联网 > 6个月小厂
