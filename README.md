@@ -1,6 +1,6 @@
 #  XJTLU_USA_CS_Application
 
-美研收到边缘政治影响，项目难度忽高忽低，且各个项目之间内部还有改变，本帖只帮助各位梳理思路。为什么需要这个repo? 很多学生由于高考上来，第一次填申请，甚至大学才开始翻墙，对申请本就困惑，被中介赚走许多信息差。英国2-3w 美国 4-5w甚至有项目数量限制。在选校上Opencsapp有些过时加上这几年出来许多新项目导致。这俩天在写fyp搞完我继续update....
+美研收到边缘政治影响，项目难度忽高忽低，且各个项目之间内部还有改变，本帖只帮助各位梳理思路。为什么需要这个repo? 很多学生由于高考上来，第一次填申请，甚至大学才开始翻墙，对申请本就困惑，被中介赚走许多信息差。英国2-3w 美国 4-5w甚至有项目数量限制。在选校上Opencsapp有些过时加上这几年出来许多新项目导致。
 
 ## 目录
 ----
@@ -29,7 +29,7 @@
 - ucla mscs / umich cse (26fall扩招了建议填） / haverd cse&ds/ cmu msin / nwu mlds
 - 上面的无录取
 - cmu mrsd / cmu aii / harvard hds/ upenn msr 
-- nyu ds / ucsd cs75 / cornell tech meng cs / uiuc mcs / cmu mites  / upenn cggt
+- nyu ds / ucla msece / ucsd cs75 / cornell tech meng cs / uiuc mcs / cmu mites  / upenn cggt
 - gt cse(isye) home uint不要填ece / gt ece / columbia mscs/ mwu mscs / cmu ece(26扩招了）/ cornell tech cm&ece
 - 下面为普遍录取项目
 - Umich ms r&ece / brown scm cs / jhu msecs / ucsd ece$ce 不要填cs76/cmu sesv&aie&sess&ece(spring)$aim / uw ee pmp
@@ -73,10 +73,14 @@
 - AA (有些老师只写5封）
 - 非常和善的老师 chenyaran 和 wangyihong  ：ps 别所有人逮着薅
 
+#### 中介的作用
+- 文书 你要是做研究但不知道做什么研究 那就往找工写  让中介写也行
+- 你真要做研究  建议先写个清单 让中介噪音  然后你自己理理清楚不要堆砌经历 按照故事线路写 我看到知乎上比较好的说你需要想自己2-3年后独立开创一个topic 你会选什么 你有目标你就把自己经历 可解释的往上面靠  自己改改 + gemini + Grammarly + 导师看看
+- 我的文书只做参考 
 
 #### 语言
 - 如果你想去比CMU ECE 好的项目 比如CMU MSIN/ Gatech MSCS 需要GRE  其余不需要
-- 你的CV 不要写语言 会被大部分默认到不了 105/8会被Brown拒
+- 你的CV 不要写语言 不到105/8会被Brown拒
 
 #### 你不得不面对的事情
-- 这章节主要讲点黑话 估计得拿英语写 包括到底什么叫做背景提升如实习造假论文造假等
+- 这章节主要讲点黑话 估计得拿英语写 包括到底什么叫做背景提升 实习造假论文造假等
