@@ -75,14 +75,17 @@
 - 非常和善的老师 chenyaran 和 wangyihong  ：ps 别所有人逮着薅
 
 #### 中介
-- [合同](https://github.com/Xyu-Chern/XJTLU_CS_Application/edit/main/contract.pdf)
+- [合同](https://github.com/Xyu-Chern/XJTLU_CS_Application/blob/main/contract.pdf)
 - 文书 你要是做研究但不知道做什么研究 那就往找工写  让中介写也行
 - 你真要做研究  建议先写个清单 让中介噪音  然后你自己理理清楚不要堆砌经历 按照故事线路写 我看到知乎上比较好的说你需要想自己2-3年后独立开创一个topic 你会选什么 你有目标你就把自己经历 可解释的往上面靠  自己改改 + gemini + Grammarly + 导师看看
 - 我的文书只做参考 
 
+#### CV
+
+
 #### 语言
-- 如果你想去比CMU ECE 好的项目 比如CMU MSIN/ Gatech MSCS 需要GRE  其余不需要
-- 你的CV 不要写语言 不到105/8会被Brown拒
+- GRE : Duke MSCS/ Gatech MSCS / CMU SCS
+
 
 #### 你不得不面对的事情
 - 这章节主要讲点黑话 估计得拿英语写 包括到底什么叫做背景提升 实习造假论文造假等
