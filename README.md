@@ -33,9 +33,10 @@
 - nyu ds / ucla msece / ucsd cs75 / cornell tech meng cs / uiuc mcs / cmu msmite  / upenn cggt / gt cse(isye) home uint不要填ece 
 - gt ece / columbia mscs/ nwu mscs / cmu ece(26扩招了）/ cornell tech cm / ucla meng 
 - 下面为普遍录取项目
-- Umich ms r&ece / upenn se / brown scm cs / jhu msecs / cmu sesv&aie&sess&ece(spring)$aim /ucsd ece$ce 不要填cs76// uw ee pmp(改名叫ece了）
-- Upenn ee/ Columbia ee/ rice mcs /cmu msim-bida/ duke meng ece/ nyu mscs tandon& corant / usc cs28 / uchicago mpcs
-- neu .....
+- Umich ms r&ece / upenn se / brown scm cs / jhu msecs / cmu sesv&aie&sess&ece(spring)$aim /ucsd ece$ce&ds 不要填cs76/ / uw ee pmp(改名叫ece了）
+- cmu msim-bida/ rice mcs / jhu msr / Upenn ee/ Columbia ee/ duke meng ece/ nyu mscs tandon& corant / usc cs28 / uchicago mpcs
+- neu / rice ece
+
 
 #### 信息渠道
 - 纸条留学圈
