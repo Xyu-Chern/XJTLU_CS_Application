@@ -25,16 +25,16 @@
 - 不要只盯着cs 申
 
 - 大致罗列 后续收集完xhs上的填link 介绍
-- stf ee/ cmu scs&ri / yale cs ( 特点一个学校最多一个）/ uiuc mscs /  caltech ee
-- upenn cis / utaustion ece&cs /  ucb meng eecs / uiuc ms ece / 
-- ucla mscs / umich cse (26fall扩招了建议填） / haverd cse&ds/ cmu msin / nwu mlds / upenn ds
+- stf ee icme mse/ cmu scs&ri / yale cs / uiuc mscs /  caltech ee
+- upenn cis / utaustion ece&cs /  ucb meng eecs / uiuc ms ece / gt mscs / umd mscs
+- ucla mscs / umich cse (26fall扩招了建议填） / haverd cse&ds/ cmu msin  / upenn ds / nwu mlds
 - 上面的无录取
 - cmu mrsd / cmu aii / harvard hds/ upenn msr 
 - nyu ds / ucla msece / ucsd cs75 / cornell tech meng cs / uiuc mcs / cmu msmite  / upenn cggt / gt cse(isye) home uint不要填ece 
 - gt ece / columbia mscs/ nwu mscs / cmu ece(26扩招了）/ cornell tech cm / ucla meng 
 - 下面为普遍录取项目
 - Umich ms r&ece / upenn se / brown scm cs / jhu msecs / cmu sesv&aie&sess&ece(spring)$aim /ucsd ece$ce 不要填cs76// uw ee pmp(改名叫ece了）
-- Upenn ee/ Columbia ee/ rice mcs /cmu msim-bida/ duke meng ece/ nyu mscs tandon& corant / usc cs28 / 
+- Upenn ee/ Columbia ee/ rice mcs /cmu msim-bida/ duke meng ece/ nyu mscs tandon& corant / usc cs28 / uchicago mpcs
 - neu .....
 
 #### 信息渠道
