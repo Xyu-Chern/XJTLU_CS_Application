@@ -27,7 +27,7 @@
 - 大致罗列 后续收集完xhs上的填link 介绍
 - stf ee/ cmu scs&ri / yale cs ( 特点一个学校最多一个）/ uiuc mscs /  caltech ee
 - upenn cis / utaustion ece&cs /  ucb meng eecs / uiuc ms ece / 
-- ucla mscs / umich cse (26fall扩招了建议填） / haverd cse&ds/ cmu msin / nwu mlds
+- ucla mscs / umich cse (26fall扩招了建议填） / haverd cse&ds/ cmu msin / nwu mlds / upenn ds
 - 上面的无录取
 - cmu mrsd / cmu aii / harvard hds/ upenn msr 
 - nyu ds / ucla msece / ucsd cs75 / cornell tech meng cs / uiuc mcs / cmu msmite  / upenn cggt / gt cse(isye) home uint不要填ece 
